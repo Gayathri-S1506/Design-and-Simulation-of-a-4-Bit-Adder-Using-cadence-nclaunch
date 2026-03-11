@@ -27,8 +27,7 @@ The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and ve
 - Write a **testbench** to apply different input combinations.
 - Run the **simulation** and observe the **waveforms**.
 - Verify that the output sum and carry are correct for all cases.
-
----
+ ---
 
 ## Verilog Code for 1-Bit Full Adder
 ```verilog
@@ -100,7 +99,7 @@ endmodule
 ![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/80d64126-082d-4065-8ccb-68cb7a600e00" />
 
 
 
@@ -110,3 +109,6 @@ Simulated the design using Cadence nclaunch and verified the output.
 Observed correct addition functionality for all test cases.
 
 
+    
+
+   
